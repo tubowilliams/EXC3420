@@ -55,6 +55,8 @@ Human depletion: Burnout, poor healthcare/education, brain drain.
 If GDP per capita was adjusted for depletion, many resource-rich countries (e.g. Nigeria) would show lower or even negative growth.
 
 Norway’s model: Offsets oil depletion by saving & investing in its Sovereign Wealth Fund (converts natural capital → financial capital).
+
+
 ✅ Key Takeaways for Today
 
 GDP ≠ wellbeing; it’s just a measure of production.
