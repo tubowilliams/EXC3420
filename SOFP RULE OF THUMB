@@ -1,0 +1,11 @@
+
+
+quick rule of thumb:
+
+* **Revenue**: bank ↑ (overdraft ↓), **equity ↑** by profit.
+* **Expense**: bank ↓ (overdraft ↑), **equity ↓** by the expense.
+* **Credit sale**: receivables ↑, **equity ↑** by profit (no bank yet).
+* **Receipt from receivables**: receivables ↓, bank ↑ (overdraft ↓), **no equity change**.
+* **Credit purchase**: inventory ↑, payables ↑, **no equity change**.
+* **Pay payables**: bank ↓ (overdraft ↑), payables ↓, **no equity change**.
+
